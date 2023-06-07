@@ -12,7 +12,7 @@
    
 
 .DESCRIPTION    
-    This script has no parameters, just run it in a directory with ALL the .DAT files from the LEVELS directory of any Magic Carpet game release
+    This script has no parameters, just run it in a directory with the LEVELS.DAT and LEVELS.TAB files from the LEVELS directory of any Magic Carpet game release
     Note this does NOT extract image .DAT/TAB formats, they work differently. Only levels!
     For Hidden Worlds, rename the DDLEVELS files to just LEVELS.DAT/TAB or change the variable looked for by the $levfile and $tabfile lines below
 
